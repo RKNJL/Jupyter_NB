@@ -1,2 +1,2 @@
 # Jupyter_NB
-Jupyter Notebook on Replt.com 
+Jupyter Notebook on Replit.com 
